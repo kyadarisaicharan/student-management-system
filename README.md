@@ -29,7 +29,7 @@ A full-stack web application developed using Spring Boot to manage students, cou
 1. Clone the repository
 2. Configure MySQL database in `application.properties`
 3. Run the Spring Boot application
-4. Access the application at: http://localhost:8080
+4. Access the application at: http://localhost:8081
 
 ## 📌 Future Enhancements
 - Search and filtering functionality
